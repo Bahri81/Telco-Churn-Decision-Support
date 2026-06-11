@@ -1,9 +1,6 @@
 streamlit
-pandas
-numpy
 pycaret
-scikit-learn==1.4.2
-xlsxwriter
 fastapi
 uvicorn
 pydantic
+xlsxwriter
