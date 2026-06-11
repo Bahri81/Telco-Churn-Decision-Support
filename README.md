@@ -48,7 +48,8 @@ To deliver these predictive capabilities to non-technical business stakeholders,
 * **Interactive Single Profile Simulator:** Allows real-time risk analysis for individual customer profiles.
 * **High-Volume Bulk Prediction Engine:** Enables rapid batch portfolio forecasting via Excel/CSV uploads.
 
-> **[Click Here to Access the Live Streamlit Web Application](https://share.streamlit.io/your-username/your-repo-name/main/app.py)** *(Note: Please update this placeholder with your live Streamlit URL after deployment)*
+> ### 🌐 Live Demonstration
+> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telco-churn-decision-support-axexvfsw7za7qckkax8rds.streamlit.app)
 
 ### 3. Production-Ready Architecture (FastAPI & Docker)
 To complement the visual frontend with an enterprise-grade backend, a robust microservice infrastructure has been integrated into the repository:
